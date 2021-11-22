@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paramesh-p98
 - 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning React, NodeJs
-- 📫 How to reach me - paramesh3598@gmail.com
+- 📫 How to reach me -Drop an email to paramesh3598@gmail.com
 
 <!---
 paramesh-p98/paramesh-p98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

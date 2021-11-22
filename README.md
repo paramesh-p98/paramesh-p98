@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paramesh-p98
-- 👀 I’m interested in full stack development
+- 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning React, NodeJs
 - 📫 How to reach me - paramesh3598@gmail.com
 

@@ -1,7 +1,8 @@
 <h1 align="center">Hi , I'm Parameswaran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 I'm a Software Developer,
 I’m interested in Front End development and Full stack development,
-I’m currently learning and working on MERN stack
+I’m currently learning and working on MERN stack development,
+I love working with React framework :heartpulse:
 
 <div align="center">
   

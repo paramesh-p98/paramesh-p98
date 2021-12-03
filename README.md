@@ -23,17 +23,23 @@ I love working with React framework :heartpulse:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-  
+
+<br/>
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=paramesh-p98&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramesh-p98&theme=react&layout=compact" />
+</p>
+
 -------------------
   
   ## Contact
   <a href="https://www.instagram.com/__.paramesh.__/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
   <a href="https://twitter.com/paramesh3598">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
   <a target="_blank" href="mailto:paramesh3598@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-   <a href="https://www.linkedin.com/in/parameswaran-p-069106127/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://www.linkedin.com/in/parameswaran-p-069106127/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
   
-
-
   
 
  <div>

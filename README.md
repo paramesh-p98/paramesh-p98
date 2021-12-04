@@ -1,12 +1,17 @@
-<h1 align="center">Hi , I'm Parameswaran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-I'm a Software Developer,
-I’m interested in Front End development and Full stack development,
-I’m currently learning and working on MERN stack development,
-I love working with React framework :heartpulse:
+<h1 >Hi , I'm Parameswaran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<h2>I'm a Front End Developer, ReactJs developer and avid learner!</h2>
+
+- &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- &nbsp; Passionate about web development technologies!.
+- &nbsp; Learning more about Cloud Architecture, Systems Design and Machine Learning.
+- &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+
+
+### <h3> 🛠 &nbsp;Tech Stack</h3>
 
 <div align="center">
-  
-### Languages and Tools
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)

@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Parameswaran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2 align="center"> I'm a Front End Developer, ReactJs developer and avid learner!</h2>
 
-- &nbsp; I'm a Front End Developer, ReactJs developer and avid learner!
 - &nbsp; Passionate about web development technologies!
 - &nbsp; Building cool projects for my portfolio.
 - &nbsp; I love working with React framework :heartpulse:
